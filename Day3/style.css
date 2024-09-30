@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+table{
+    background-color: aquamarine;
+    border: 10px;
+    border-style: groove;
+    width: 100%;
+    border-color: red;
+    border-radius: 10px;
+}
+#heading{
+    background-color: yellowgreen;
+    font-size: 60px;
+    text-align: center;
+    color: brown;
+}
+#row1{
+    background-color: pink;
+    text-align: center;
+}
+#row2{
+    background-color: violet;
+    text-align: center;
+}
