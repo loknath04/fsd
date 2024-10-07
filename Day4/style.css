@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    background-color: aqua;
+    font-size: 20px;
+    justify-content: space-between;
+    margin: 20px;
+}
+.menu-item , .lgn , .sgn{
+    border: 3px;
+    background-color: black;
+    font-size: 35px;
+    color: white;
+    border-radius: 10px;
+    margin: 20px;
+
+}
+.menubar{
+    display: flex;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: lightgreen;
+}
+
+.main-content{
+    display: flex;
+    justify-content: space-between;
+ 
+    background-color: chocolate;
+    margin: 20px;
+    border: 5px solid greenyellow;
+}
+.about-website{
+    width: 40%;
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+   
+}
+.news{
+    width: 30%;
+}
+.login-panel{
+    width: 30%;
+}
+table{
+    font-size: 30px;
+    border: 10px solid gold;
+    border-radius: 10px;
+}
